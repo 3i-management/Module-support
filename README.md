@@ -1,2 +1,2 @@
-# business-core-system
+# business-core-platform
 Modular business core platform for company applications, provider integrations, and connections to ERP and other business systems.
