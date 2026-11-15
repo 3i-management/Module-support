@@ -1,2 +1,2 @@
 # Module-support
-Modular business core platform for company applications, provider integrations, and connections to ERP and other business systems.
+Module-support business core platform.
